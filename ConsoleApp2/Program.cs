@@ -45,6 +45,6 @@ namespace ConsoleApp2
                 Console.WriteLine((i + 1) + ". " + products[i]);
             }
         }
-        //програмни езици 
+        
     }
 }
